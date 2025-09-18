@@ -17,7 +17,7 @@
 
 ## Results
 - R² Score: ~0.78
-- Model shows previous grades (G1, G2) are strongest predictors of final grade.
+- Model shows previous grades G2 as the strongest predictor of final grade.
 
 ## Files
 - `linear_regression_student.py`: Python code
