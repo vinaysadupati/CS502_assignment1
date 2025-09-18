@@ -16,7 +16,7 @@
 6. Visualize Actual vs Predicted
 
 ## Results
-- R² Score: ~0.82
+- R² Score: ~0.78
 - Model shows previous grades (G1, G2) are strongest predictors of final grade.
 
 ## Files
